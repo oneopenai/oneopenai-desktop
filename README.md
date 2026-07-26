@@ -24,9 +24,7 @@
 
 没有复杂配置，没有设备码操作，打开软件即可完成登录。
 
-项目完全免费，欢迎下载、反馈和参与开发：
-
-https://github.com/oneopenai/oneopenai-desktop
+项目完全免费，欢迎下载、反馈和参与开发
 
 如果你经常使用 Codex、ChatGPT API 或需要管理 OAuth Token，OneOpenAI Desktop 可以让整个过程简单很多。
 
