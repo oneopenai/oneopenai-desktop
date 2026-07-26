@@ -5,7 +5,7 @@
 <h1 align="center">OneOpenAI</h1>
 
 <p align="center">
-  <img src="build/image.png" width="112" alt="OneOpenAI">
+  <img src="build/image.png" alt="OneOpenAI">
 </p>
 
 
